@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This is Hosted Link:- https://akhtarraja513.github.io/E-Mart-react-redux/
+This is Hosted Link:- https://mini-ecommerce-mart.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
